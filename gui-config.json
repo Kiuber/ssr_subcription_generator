@@ -1,0 +1,30 @@
+{
+  "configs" : [
+    {
+      "remarks" : "remarks",
+      "server" : "x.xx.x",
+      "server_port" : 9999,
+      "server_udp_port" : 0,
+      "password" : "password",
+      "method" : "aes-128-ctr",
+      "protocol" : "auth_aes128_sha1",
+      "protocolparam" : "",
+      "obfs" : "http_post",
+      "obfsparam" : "",
+      "remarks_base64" : "",
+      "group" : "group",
+      "enable" : true,
+      "udp_over_tcp" : false
+    }
+  ],
+  "strategy" : null,
+  "index" : 2,
+  "global" : true,
+  "enabled" : true,
+  "shareOverLan" : false,
+  "isDefault" : false,
+  "localPort" : 1080,
+  "pacUrl" : null,
+  "useOnlinePac" : false,
+  "availabilityStatistics" : false
+}

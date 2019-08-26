@@ -10,6 +10,4 @@ and you can find config in gui-config.json
 ```python
 python ssr-generater.py
 ```
-4. save the ssr.txt to the server, and point the subcription url to server path of ssr.txt
-
-
+4. get encode url and subscribe content!
